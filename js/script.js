@@ -7,3 +7,4 @@ const arrObj = {
 
 arrObj.b = [];
 console.log(arrObj);
+
